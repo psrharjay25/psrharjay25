@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋🏻, I'm Potnuru Jayanth</h1>
 # 💫 About Me:
 I'm Final year Student have interest on Software Development, Data Science and Networking<br>I'm currently working on HTML,CSS,PHP,MYSQL,JS<br>I'm Tech Enthusiast<br>I'm currently Learning cybersecurity, natural language processing and human computer interaction
 
